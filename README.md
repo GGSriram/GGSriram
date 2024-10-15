@@ -23,16 +23,9 @@ Welcome to my GitHub profile! I'm currently studying for my Bachelor's degree in
 - **Frameworks & Tools:** Flutter
 - **Databases:** MongoDB
 
-## 📂 Projects
-Here are a few projects I've worked on:
-- **[Project Name 1](link-to-your-project1)**: A brief description of what this project does.
-- **[Project Name 2](link-to-your-project2)**: A brief description of what this project does.
-- **[Project Name 3](link-to-your-project3)**: A brief description of what this project does.
-
 ## 💬 Get in Touch
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-your-linkedin)
-- **Twitter:** [@yourtwitterhandle](link-to-your-twitter)
+- **Email:** [MyMail](mailto:iamsriram24@gmail.com)
+- **Telegram:**[Telegram](https://t.me/SriRamGG)
 
 ## 🎯 Goals
 I'm always looking to learn new technologies and improve my skills. Currently, I am interested in exploring:
