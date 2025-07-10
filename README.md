@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm currently studying for my Bachelor's degree in
 ## 🌟 Skills
  - **Programming Languages:** Python, HTML, CSS 
 - **Frameworks & Tools:** Flutter
-- **Databases:** MongoDB
+- **Databases:** MongoDB, MySQL
 
 
 ## 💬 Get in Touch
