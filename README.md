@@ -19,14 +19,16 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm currently studying for my Bachelor's degree in Information Technology. I have a passion for coding and enjoy working on various projects that challenge my skills and creativity.
 
 ## 🌟 Skills
- - **Programming Languages:** Python, HTML, CSS 
-- **Frameworks & Tools:** Flutter
-- **Databases:** MongoDB, MySQL
+ - **Programming Languages:** Python, HTML, CSS, JS
+- **Frameworks & Tools:** Flutter, Flask
+- **Databases:** MongoDB, MySQL, PostgreSQL
 
 
 ## 💬 Get in Touch
 - **Email:** [MyMail](mailto:gsri318@gmail.com)
 - **Telegram:**[Telegram](https://t.me/SriRamGG)
+- **LinkedIn:**[LinkedIn](www.linkedin.com/in/ggsriram)
+- **Instagram**[Instagram](https://www.instagram.com/ggsriram_)
 
 ## 🎯 Goals
 I'm always looking to learn new technologies and improve my skills. Currently, I am interested in exploring:
