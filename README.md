@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm currently studying for my Bachelor's degree in
 ## 💬 Get in Touch
 - **Email:** [MyMail](mailto:gsri318@gmail.com)
 - **Telegram:** [Telegram](https://t.me/SriRamGG)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/ggsriram)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ggsriram/)
 - **Instagram:** [Instagram](https://www.instagram.com/ggsriram_)
 
 ## 🎯 Goals
