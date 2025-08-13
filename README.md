@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm currently studying for my Bachelor's degree in
  - **Programming Languages:** Python, HTML, CSS, JS
 - **Frameworks & Tools:** Flutter, Flask
 - **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & IDEs:** Visual Studio Code, Android Studio 
 
 
 ## 💬 Get in Touch
