@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm currently studying for my Bachelor's degree in Information Technology. I have a passion for coding and enjoy working on various projects that challenge my skills and creativity.
 
 ## 🌟 Skills
- - **Programming Languages:** Python, HTML, CSS, JS
+ - **Programming Languages:** Python, HTML, CSS, JS, Java
 - **Frameworks & Tools:** Flutter, Flask
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & IDEs:** Visual Studio Code, Android Studio 
